@@ -52,3 +52,7 @@ debian/shadowvpn.postrm.debhelper
 debian/shadowvpn.prerm.debhelper
 debian/shadowvpn.substvars
 debian/shadowvpn/
+
+# Eclipse project files
+*.project
+*.cproject

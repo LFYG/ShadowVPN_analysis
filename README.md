@@ -1,14 +1,12 @@
-ShadowVPN
+ShadowVPN注释 2015.12.31
 =========
 
-[![Build Status]][Travis CI]
+### 由[@Lixingcong](https://github.com/lixingcong)注释，仅供学习，对滥用本项目产生一切后果概不负责。
 
 [中文说明][Chinese Readme]
 
 ShadowVPN is a fast, safe VPN based on libsodium. Designed for low end
 devices, i.e. OpenWRT routers.
-
-For more details, [check here][Compare].
 
 ShadowVPN is currently beta and have much work to do. If you want a stable version, 
 please come by here a few months later.
